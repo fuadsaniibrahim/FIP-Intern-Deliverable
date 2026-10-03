@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1,roc_auc
+Logistic Regression (baseline),0.974,0.955,0.977,0.966,0.996
+Decision Tree (baseline),0.904,0.848,0.907,0.876,0.904
+Random Forest (bagging),0.974,0.976,0.953,0.965,0.992
+XGBoost (boosting),0.965,0.953,0.953,0.953,0.993

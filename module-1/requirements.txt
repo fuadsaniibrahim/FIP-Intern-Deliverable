@@ -1,0 +1,11 @@
+ipykernel==7.4.0
+lime==0.2.0.1
+matplotlib==3.11.2
+nbconvert==7.17.1
+nbformat==5.11.1
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn==1.9.1
+scipy==1.18.1
+shap==0.52.0
+xgboost==3.4.1
